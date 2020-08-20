@@ -12,3 +12,4 @@
 - [📕 Módulo 2 - Iniciando os estudos](modulo02)
 
   - [✨ Aula 5 - Variáveis e Tipos](modulo02/aula05)
+  - [✍🏻 Aula 6 - Dando nome às variáveis](modulo02/aula06)
