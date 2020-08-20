@@ -8,3 +8,7 @@
 
   - [😀 Aula 1 - Boas Vindas](modulo01/aula01)
   - [📖 Aula 4 - Apresentando a linguagem **C**](modulo01/aula04)
+
+- [📕 Módulo 2 - Iniciando os estudos](modulo02)
+
+  - [✨ Aula 5 - Variáveis e Tipos](modulo02/aula05)
