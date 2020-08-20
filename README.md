@@ -1,6 +1,6 @@
 <h1 align="center">👨🏻‍💻 INTRODUÇÃO À PROGRAMAÇÃO</h1>
 
-💻 Repositório para estudo de **C** do curso de **Introdução à Programação I** da **UFRPE**
+💻 Repositório para estudo da linguagem **C** da disciplina **Introdução à Programação I** do curso de Ciência da Computação da **UFRPE**
 
 ## 📚 Módulos
 
