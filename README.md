@@ -7,3 +7,4 @@
 - [📒 Módulo 1 - Introdução](modulo01)
 
   - [😀 Aula 1 - Boas Vindas](modulo01/aula01)
+  - [📖 Aula 4 - Apresentando a linguagem **C**](modulo01/aula04)
