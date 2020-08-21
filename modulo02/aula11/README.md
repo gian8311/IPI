@@ -15,7 +15,7 @@
 
 Todos esses operadores retornam 1 ou 0 (_verdadeiro ou falso_)
 
-### Operadores relacionais disponíveis
+### Operadores lógicos disponíveis
 
 | Operador | Função  |
 | :------: | :-----: |
