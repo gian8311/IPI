@@ -6,11 +6,11 @@
 
 | Operador |          Função           |
 | :------: | :-----------------------: |
-|    +     |           Soma            |
-|    -     |         Subtração         |
-|    /     |          Divisão          |
-|    \*    |       Multiplicação       |
-|    %     | Módulo (Resto da divisão) |
+|   `+`    |           Soma            |
+|   `-`    |         Subtração         |
+|   `/`    |          Divisão          |
+|   `*`    |       Multiplicação       |
+|   `%`    | Módulo (Resto da divisão) |
 
 ### Ordem de precedência
 
