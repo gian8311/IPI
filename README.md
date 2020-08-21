@@ -16,3 +16,4 @@
   - [🔨 Aula 7 - Atribuindo valores às variáveis](modulo02/aula07)
   - [⬇ Aula 8 - Funções nativas de saída](modulo02/aula08)
   - [⬆ Aula 9 - Funções nativas de entrada](modulo02/aula09)
+  - [➕ Aula 10 - Operadores aritméticos](modulo02/aula10)
