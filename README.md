@@ -17,3 +17,4 @@
   - [⬇ Aula 8 - Funções nativas de saída](modulo02/aula08)
   - [⬆ Aula 9 - Funções nativas de entrada](modulo02/aula09)
   - [➕ Aula 10 - Operadores aritméticos](modulo02/aula10)
+  - [🤔 Aula 11 - Operadores relacionais e lógicos](modulo02/aula11)
