@@ -19,3 +19,4 @@
   - [➕ Aula 10 - Operadores aritméticos](modulo02/aula10)
   - [🤔 Aula 11 - Operadores relacionais e lógicos](modulo02/aula11)
   - [⏫ Aula 12 - Operadores de incremento](modulo02/aula12)
+  - [📐 Aula 13 - Funções matemáticas](modulo02/aula13)
