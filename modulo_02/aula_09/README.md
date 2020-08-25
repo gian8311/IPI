@@ -120,7 +120,7 @@
 
 #### Exercício 1: Escreva um programa que pede ao usuário que digite sua idade e que a imprima na tela.
 
-##### [Resposta](ex01.c):
+##### [Resposta](ex01.c)
 
 ```c
 #include <stdio.h>
@@ -139,7 +139,7 @@ int main(void) {
 
 #### Exercício 2: Escreva um programa que pede ao usuário que digite o dia, mês e o ano (todas as variáveis inteiras) em que nasceu e imprima na tela "Você nasceu no dia \_\_, do mês \_\_, do ano \_\_\_\_".
 
-##### [Resposta](ex02.c):
+##### [Resposta](ex02.c)
 
 ```c
 #include <stdio.h>
@@ -158,7 +158,7 @@ int main(void) {
 
 #### Exercício 3: Escreva um programa que pede ao usuário que digite o seu peso e que o imprima na tela.
 
-##### [Resposta](ex03.c):
+##### [Resposta](ex03.c)
 
 ```c
 #include <stdio.h>
@@ -177,7 +177,7 @@ int main(void) {
 
 #### Exercício 4: Escreva um programa que pede ao usuário que digite a primeira letra do seu nome e que a imprima na tela.
 
-##### [Resposta](ex04.c):
+##### [Resposta](ex04.c)
 
 ```c
 #include <stdio.h>

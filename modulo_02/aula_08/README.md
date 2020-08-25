@@ -112,7 +112,7 @@
 
 #### Exercício 1: Usando o printf, imprima a mensagem: "Eu adoro programar em C".
 
-##### [Resposta](ex01.c):
+##### [Resposta](ex01.c)
 
 ```c
 #include <stdio.h>
@@ -126,7 +126,7 @@ int main(void) {
 
 #### Exercício 2: Crie três variáveis, uma inteira, uma real e outra caractere, e atribua valores a elas. Após a atribuição, imprima seus valores usando o printf.
 
-##### [Resposta](ex02.c):
+##### [Resposta](ex02.c)
 
 ```c
 #include <stdio.h>

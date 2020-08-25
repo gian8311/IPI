@@ -164,7 +164,7 @@ Output: `30 vezes 5 eh igual a 150`
 
 #### Exercício 1: Escreva um programa que requisita a idade da pessoa em anos, e converta o valor para dias e imprima o resultado.
 
-##### [Resposta](ex01.c):
+##### [Resposta](ex01.c)
 
 ```c
 #include <stdio.h>
@@ -184,7 +184,7 @@ int main(void) {
 
 #### Exercício 2: Escreva um programa que converta uma temperatura (em real) fornecida pelo usuário de graus Fahrenheit para a correspondente temperatura em graus Celsius. C = (F - 32) \* 5 / 9.
 
-##### [Resposta](ex02.c):
+##### [Resposta](ex02.c)
 
 ```c
 #include <stdio.h>
