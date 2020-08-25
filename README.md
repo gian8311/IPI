@@ -22,3 +22,4 @@
   - [📐 Aula 13 - Funções matemáticas](modulo_02/aula_13)
   - [🎲 Aula 14 - Geração de dados aleatórios](modulo_02/aula_14)
   - [👓 Aula 15 - Introdução a estruturas de decisão](modulo_03/aula_15)
+  - [↪ Aula 16 - Condicional simples](modulo_03/aula_16)
