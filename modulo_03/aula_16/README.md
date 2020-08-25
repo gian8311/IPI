@@ -64,7 +64,7 @@ Output: `Hello World`
 
 Como o resultado da condição `a + 5` é `15` e esse é **diferente de 0**, o programa vai executar as instruções dentro do `if`
 
-#### Exemplo 2 - Passando `0` como expressão no if
+#### Exemplo 3 - Passando `0` como expressão no if
 
 ```c
 #include <stdio.h>

@@ -21,5 +21,8 @@
   - [⏫ Aula 12 - Operadores de incremento](modulo_02/aula_12)
   - [📐 Aula 13 - Funções matemáticas](modulo_02/aula_13)
   - [🎲 Aula 14 - Geração de dados aleatórios](modulo_02/aula_14)
+
+- [📗 Módulo 3 - Iniciando os estudos](modulo_03)
+
   - [👓 Aula 15 - Introdução a estruturas de decisão](modulo_03/aula_15)
   - [↪ Aula 16 - Condicional simples](modulo_03/aula_16)
