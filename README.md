@@ -26,3 +26,4 @@
 
   - [👓 Aula 15 - Introdução a estruturas de decisão](modulo_03/aula_15)
   - [↪ Aula 16 - Condicional simples](modulo_03/aula_16)
+  - [🚫 Aula 17 - Limitação da condicional simples](modulo_03/aula_17)
