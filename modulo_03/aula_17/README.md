@@ -55,4 +55,4 @@ Output: `1 eh impar`
 
 Precisamos de 2 condicionais simples para escrever esse código
 
-Uma alternativa para contornar essa limitação utilizamos a **_estrutura condicional composta_** (SE-ENTÃO/SENÃO)
+Uma alternativa para contornar essa limitação utilizamos a [**_estrutura condicional composta_**](../aula_18) (SE-ENTÃO/SENÃO)
