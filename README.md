@@ -28,3 +28,4 @@
   - [↪ Aula 16 - Condicional simples](modulo_03/aula_16)
   - [🚫 Aula 17 - Limitação da condicional simples](modulo_03/aula_17)
   - [🔍 Aula 18 - Condicional composta](modulo_03/aula_18)
+  - [🔀 Aula 19 - Condicionais encadeadas](modulo_03/aula_19)
