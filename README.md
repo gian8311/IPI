@@ -30,3 +30,4 @@
   - [🔍 Aula 18 - Condicional composta](modulo_03/aula_18)
   - [🔀 Aula 19 - Condicionais encadeadas](modulo_03/aula_19)
   - [👀 Aula 20 - Possibilidades com condicionais](modulo_03/aula_20)
+  - [🔃 Aula 21 - Switch](modulo_03/aula_21)
