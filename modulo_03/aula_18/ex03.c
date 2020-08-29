@@ -8,9 +8,9 @@ int main(void) {
     scanf("%i", &idade);
 
     if (idade >= 18 && idade <= 67) {
-        printf("Você pode doar!");
+        printf("Voce pode doar!");
     } else {
-        printf("Você não pode doar!");
+        printf("Voce nao pode doar!");
     }
 
     return 0;

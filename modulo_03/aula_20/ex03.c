@@ -18,14 +18,14 @@ int main(void) {
     scanf("%i", &idade);
 
     if (idade < 18) {
-        printf("Você é de menor, não pode comprar nenhum carro!");
+        printf("Voce eh de menor, nao pode comprar nenhum carro!");
     } else {
         float dinheiro;
 
-        printf("Digite a quantia que você possui em dinheiro: R$");
+        printf("Digite a quantia que voce possui em dinheiro: R$");
         scanf("%f", &dinheiro);
 
-        printf("\nOpções\n");
+        printf("\nOpcoes\n");
         printf("1 - BMW (R$ 1.000)\n");
         printf("2 - Mercedes (R$ 2.000)\n");
         printf("3 - Ferrari (R$ 3.000)\n");
@@ -33,28 +33,28 @@ int main(void) {
 
         int opcao;
 
-        printf("\nEscolha uma opção: ");
+        printf("\nEscolha uma opcao: ");
         scanf("%i", &opcao);
 
         if (opcao == 4) {
-            printf("Você desistiu da compra");
+            printf("Voce desistiu da compra");
         } else if (opcao == 1) {
             if (dinheiro >= 1000) {
                 printf("Compra realizada com sucesso!");
             } else {
-                printf("Seu dinheiro é insuficiente para essa compra!");
+                printf("Seu dinheiro eh insuficiente para essa compra!");
             }
         } else if (opcao == 2) {
             if (dinheiro >= 2000) {
                 printf("Compra realizada com sucesso!");
             } else {
-                printf("Seu dinheiro é insuficiente para essa compra!");
+                printf("Seu dinheiro eh insuficiente para essa compra!");
             }
         } else if (opcao == 3) {
             if (dinheiro >= 3000) {
                 printf("Compra realizada com sucesso!");
             } else {
-                printf("Seu dinheiro é insuficiente para essa compra!");
+                printf("Seu dinheiro eh insuficiente para essa compra!");
             }
 
             return 0;

@@ -9,13 +9,13 @@ int main(void) {
     scanf("%i/%i/%i", &dia, &mes, &ano);
 
     if (ano > 2020) {
-        printf("Você digitou um ano invalido!");
+        printf("Voce digitou um ano invalido!");
     } else if (mes < 1 || mes > 12) {
-        printf("Você digitou um mes invalido!");
+        printf("Voce digitou um mes invalido!");
     } else if (dia < 1 || dia > 31) {
-        printf("Você digitou um dia invalido!");
+        printf("Voce digitou um dia invalido!");
     } else {
-        printf("Você digitou uma data de nascimento valida!");
+        printf("Voce digitou uma data de nascimento valida!");
     }
 
     return 0;

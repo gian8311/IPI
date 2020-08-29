@@ -10,7 +10,7 @@ int main(void) {
     if (b != 0) {
         printf("%f dividido por %f eh igual a: %f", a, b, a / b);
     } else {
-        printf("A divisão não pode ser realizada pois b possui um valor inválido (0)");
+        printf("A divisao nao pode ser realizada pois b possui um valor invalido (0)");
     }
 
     return 0;

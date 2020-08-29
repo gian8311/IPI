@@ -8,7 +8,7 @@ int main(void) {
     printf("Digite a data do seu nascimento (dd/mm/aaaa): ");
     scanf("%i/%i/%i", &dia, &mes, &ano);
 
-    printf("Você nasceu no dia %i, do mês %i, do ano %i.", dia, mes, ano);
+    printf("Voce nasceu no dia %i, do mes %i, do ano %i.", dia, mes, ano);
 
     return 0;
 }

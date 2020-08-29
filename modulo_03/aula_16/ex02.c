@@ -9,7 +9,7 @@ int main(void) {
     scanf("%f/%f", &a, &b);
 
     if (b != 0) {
-        printf("A divisão entre a e b eh: %f", a / b);
+        printf("A divisao entre a e b eh: %f", a / b);
     }
 
     return 0;

@@ -7,6 +7,6 @@ int main(void) {
     float b = 2.3;
     char c = 'O';
 
-    printf("Os valores de a, b e c são, respectivamente: %i, %f, %c", a, b, c);
+    printf("Os valores de a, b e c sao, respectivamente: %i, %f, %c", a, b, c);
     return 0;
 }

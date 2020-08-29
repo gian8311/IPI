@@ -9,12 +9,12 @@ int main(void) {
     scanf("%i", &dinheiro);
 
     if (dinheiro < 300) {
-        printf("Você não pode comprar nenhum tênis! :(");
+        printf("Voce nao pode comprar nenhum tenis! :(");
     } else {
         if (dinheiro >= 600) {
-            printf("Você pode comprar o tênis de competição!");
+            printf("Voce pode comprar o tenis de competicao!");
         } else {
-            printf("Você pode comprar o tênis comum!");
+            printf("Voce pode comprar o tenis comum!");
         }
     }
 

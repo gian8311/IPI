@@ -5,15 +5,15 @@
 int main(void) {
     int dinheiro;
 
-    printf("Digite quanto de dinheiro você tem: ");
+    printf("Digite quanto de dinheiro voce tem: ");
     scanf("%i", &dinheiro);
 
     if (dinheiro >= 300 && dinheiro < 600) {
-        printf("Você pode comprar o tênis comum!");
+        printf("Voce pode comprar o tenis comum!");
     } else if (dinheiro >= 600) {
-        printf("Você pode comprar o tênis de competição!");
+        printf("Voce pode comprar o tenis de competicao!");
     } else {
-        printf("Você não pode comprar nenhum tênis! :(");
+        printf("Voce nao pode comprar nenhum tenis! :(");
     }
 
     return 0;
