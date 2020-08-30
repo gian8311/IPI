@@ -31,3 +31,9 @@
   - [🔀 Aula 19 - Condicionais encadeadas](modulo_03/aula_19)
   - [👀 Aula 20 - Possibilidades com condicionais](modulo_03/aula_20)
   - [🔃 Aula 21 - Switch](modulo_03/aula_21)
+
+## 📑 Listas de exercícios
+
+- [📑 Primeira lista](lista_de_exercicios_01)
+
+  - [Estrutura condicional](lista_de_exercicios_01/estrutura_condicional)
