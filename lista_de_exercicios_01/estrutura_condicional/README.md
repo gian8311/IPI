@@ -8,7 +8,7 @@
 
 #### 2 - Escreva um programa em que uma variável recebe um valor lido entre 20 e 100. Imprima na tela o valor gerado, caso seja divisível por 3 e por 5.
 
-#### Solução Indisponível
+#### [Solução](ex02.c)
 
 #### 3 - Faça um programa que lê 2 valores A e B (inteiros) e informa se A é divisível por B ou não.
 

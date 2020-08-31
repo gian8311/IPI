@@ -6,7 +6,7 @@
 
 - ### 👓 [Estrutura condicional](estrutura_condicional)
   - [Exercício 1](estrutura_condicional/ex01.c)
-  - Exercício 2
+  - [Exercício 2](estrutura_condicional/ex02.c)
   - [Exercício 3](estrutura_condicional/ex03.c)
   - [Exercício 4](estrutura_condicional/ex04.c)
   - [Exercício 5](estrutura_condicional/ex05.c)
