@@ -32,6 +32,10 @@
   - [👀 Aula 20 - Possibilidades com condicionais](modulo_03/aula_20)
   - [🔃 Aula 21 - Switch](modulo_03/aula_21)
 
+- [📘 Módulo 4 - Estruturas de repetição](modulo_04)
+
+  - [🔁 Aula 22 - Introdução à estruturas de repetição](modulo_04/aula_22)
+
 ## 📑 Listas de exercícios
 
 - [📑 Primeira lista](lista_de_exercicios_01)
