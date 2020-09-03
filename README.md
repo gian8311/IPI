@@ -36,6 +36,7 @@
 
 - [🔁 Aula 22 - Introdução à estruturas de repetição](modulo_04/aula_22)
 - [🔂 Aula 23 - For](modulo_04/aula_23)
+- [👀 Aula 25 - Curiosidades do For](modulo_04/aula_25)
 
 ## 📑 Listas de exercícios
 
