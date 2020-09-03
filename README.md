@@ -39,6 +39,7 @@
 - [👀 Aula 25 - Curiosidades do For](modulo_04/aula_25)
 - [📑 Aula 26 - Exercícios de For](modulo_04/aula_26)
 - [🔄 Aula 27 - While](modulo_04/aula_27)
+- [📑 Aula 28 - Exercícios de While](modulo_04/aula_28)
 
 ## 📑 Listas de exercícios
 
