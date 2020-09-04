@@ -40,6 +40,7 @@
 - [📑 Aula 26 - Exercícios de For](modulo_04/aula_26)
 - [🔄 Aula 27 - While](modulo_04/aula_27)
 - [📑 Aula 28 - Exercícios de While](modulo_04/aula_28)
+- [🧲 Aula 29 - Do While](modulo_04/aula_29)
 
 ## 📑 Listas de exercícios
 
