@@ -42,6 +42,7 @@
 - [📑 Aula 28 - Exercícios de While](modulo_04/aula_28)
 - [🧲 Aula 29 - Do While](modulo_04/aula_29)
 - [🔗 Aula 30 - Laços Aninhados](modulo_04/aula_30)
+- [📑 Aula 31 - Exercícios de Laços aninhados](modulo_04/aula_31)
 
 ## 📑 Listas de exercícios
 
