@@ -48,6 +48,7 @@
 
 - [↗ Aula 32 - Introdução a vetores uni e multi-dimensionais](modulo_05/aula_32)
 - [♦ Aula 33 - Vetores uni-dimensionais](modulo_05/aula_33)
+- [0️⃣ Aula 34 - Atribuições de valores a vetores uni-dimensionais](modulo_05/aula_34)
 
 ## 📑 Listas de exercícios
 
