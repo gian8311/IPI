@@ -44,6 +44,10 @@
 - [🔗 Aula 30 - Laços Aninhados](modulo_04/aula_30)
 - [📑 Aula 31 - Exercícios de Laços aninhados](modulo_04/aula_31)
 
+### [📙 Módulo 5 - Vetores, Strings e Matrizes](modulo_05)
+
+- [↗ Aula 32 - Introdução a vetores uni e multi-dimensionais](modulo_05/aula_32)
+
 ## 📑 Listas de exercícios
 
 ### [📑 Primeira lista](lista_de_exercicios_01)
