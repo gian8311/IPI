@@ -47,6 +47,7 @@
 ### [📙 Módulo 5 - Vetores, Strings e Matrizes](modulo_05)
 
 - [↗ Aula 32 - Introdução a vetores uni e multi-dimensionais](modulo_05/aula_32)
+- [♦ Aula 33 - Vetores uni-dimensionais](modulo_05/aula_33)
 
 ## 📑 Listas de exercícios
 
