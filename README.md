@@ -51,6 +51,7 @@
 - [0️⃣ Aula 34 - Atribuições de valores a vetores uni-dimensionais](modulo_05/aula_34)
 - [💻 Aula 35 - Acesso a valores de vetores uni-dimensionais](modulo_05/aula_35)
 - [📑 Aula 36 - Exercício de Manipulação de vetores manualmente](modulo_05/aula_36)
+- [🔁 Aula 37 - Preenchendo o vetor com laços](modulo_05/aula_37)
 
 ## 📑 Listas de exercícios
 
