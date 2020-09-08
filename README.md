@@ -54,6 +54,7 @@
 - [🔁 Aula 37 - Preenchendo o vetor com laços](modulo_05/aula_37)
 - [🔁 Aula 38 - Acessando posições do vetor com laços](modulo_05/aula_38)
 - [📑 Aula 39 - Exercícios de Vetores uni-dimensionais 1](modulo_05/aula_39)
+- [📑 Aula 41 - Exercícios de Vetores uni-dimensionais 2](modulo_05/aula_41)
 
 ## 📑 Listas de exercícios
 
