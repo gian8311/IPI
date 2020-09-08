@@ -18,7 +18,7 @@ A utilização de vetores nos permite resolver problemas mais complexos
 
 #### O que iremos estudar
 
-Vetores uni-dimensionais
+Vetores unidimensionais
 
 - Estrutura de dados **lineares**
 

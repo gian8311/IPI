@@ -1,6 +1,6 @@
 <h1 align="center">👨🏻‍💻 INTRODUÇÃO À PROGRAMAÇÃO</h>
 
-## 0️⃣ Aula 34 - Atribuições de valores a vetores uni-dimensionais
+## 0️⃣ Aula 34 - Atribuições de valores a vetores unidimensionais
 
 ### Atribuindo valores
 

@@ -1,6 +1,6 @@
 <h1 align="center">👨🏻‍💻 INTRODUÇÃO À PROGRAMAÇÃO</h>
 
-## 📑 Aula 39 - Exercícios de Vetores uni-dimensionais 1
+## 📑 Aula 39 - Exercícios de Vetores unidimensionais 1
 
 ### Exercícios
 

@@ -1,6 +1,6 @@
 <h1 align="center">👨🏻‍💻 INTRODUÇÃO À PROGRAMAÇÃO</h>
 
-## ♦ Aula 33 - Vetores uni-dimensionais
+## ♦ Aula 33 - Vetores unidimensionais
 
 ### Tópico
 

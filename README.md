@@ -47,14 +47,14 @@
 ### [📙 Módulo 5 - Vetores, Strings e Matrizes](modulo_05)
 
 - [↗ Aula 32 - Introdução a vetores uni e multi-dimensionais](modulo_05/aula_32)
-- [♦ Aula 33 - Vetores uni-dimensionais](modulo_05/aula_33)
-- [0️⃣ Aula 34 - Atribuições de valores a vetores uni-dimensionais](modulo_05/aula_34)
-- [💻 Aula 35 - Acesso a valores de vetores uni-dimensionais](modulo_05/aula_35)
+- [♦ Aula 33 - Vetores unidimensionais](modulo_05/aula_33)
+- [0️⃣ Aula 34 - Atribuições de valores a vetores unidimensionais](modulo_05/aula_34)
+- [💻 Aula 35 - Acesso a valores de vetores unidimensionais](modulo_05/aula_35)
 - [📑 Aula 36 - Exercício de Manipulação de vetores manualmente](modulo_05/aula_36)
 - [🔁 Aula 37 - Preenchendo o vetor com laços](modulo_05/aula_37)
 - [🔁 Aula 38 - Acessando posições do vetor com laços](modulo_05/aula_38)
-- [📑 Aula 39 - Exercícios de Vetores uni-dimensionais 1](modulo_05/aula_39)
-- [📑 Aula 41 - Exercícios de Vetores uni-dimensionais 2](modulo_05/aula_41)
+- [📑 Aula 39 - Exercícios de Vetores unidimensionais 1](modulo_05/aula_39)
+- [📑 Aula 41 - Exercícios de Vetores unidimensionais 2](modulo_05/aula_41)
 
 ## 📑 Listas de exercícios
 

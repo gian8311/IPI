@@ -1,6 +1,6 @@
 <h1 align="center">👨🏻‍💻 INTRODUÇÃO À PROGRAMAÇÃO</h>
 
-## 💻 Aula 35 - Acesso a valores de vetores uni-dimensionais
+## 💻 Aula 35 - Acesso a valores de vetores unidimensionais
 
 ### Acessando valores
 
