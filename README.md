@@ -53,6 +53,7 @@
 - [📑 Aula 36 - Exercício de Manipulação de vetores manualmente](modulo_05/aula_36)
 - [🔁 Aula 37 - Preenchendo o vetor com laços](modulo_05/aula_37)
 - [🔁 Aula 38 - Acessando posições do vetor com laços](modulo_05/aula_38)
+- [📑 Aula 39 - Exercícios de Vetores uni-dimensionais 1](modulo_05/aula_39)
 
 ## 📑 Listas de exercícios
 
