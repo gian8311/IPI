@@ -40,3 +40,19 @@
 - [Exercício 14](estrutura_de_repeticao/ex14.c)
 - [Exercício 15](estrutura_de_repeticao/ex15.c)
 - [Exercício 16](estrutura_de_repeticao/ex16.c)
+
+### [↗ Vetores unidimensionais](vetores_unidimensionais)
+
+- [Exercício 1](vetores_unidimensionais/ex01.c)
+- [Exercício 2](vetores_unidimensionais/ex02.c)
+- [Exercício 3](vetores_unidimensionais/ex03.c)
+- [Exercício 4](vetores_unidimensionais/ex04.c)
+- [Exercício 5](vetores_unidimensionais/ex05.c)
+- [Exercício 6](vetores_unidimensionais/ex06.c)
+- [Exercício 7](vetores_unidimensionais/ex07.c)
+- [Exercício 8](vetores_unidimensionais/ex08.c)
+- [Exercício 9](vetores_unidimensionais/ex09.c)
+- [Exercício 10](vetores_unidimensionais/ex10.c)
+- [Exercício 11](vetores_unidimensionais/ex11.c)
+- Exercício 12
+- [Exercício 13](vetores_unidimensionais/ex13.c)
