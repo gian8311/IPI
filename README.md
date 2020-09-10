@@ -61,6 +61,7 @@
 - [✏ Aula 45 - Imprimindo e lendo strings com printf e scanf](modulo_05/aula_45)
 - [🖍 Aula 46 - Imprimindo e lendo strings com puts e gets](modulo_05/aula_46)
 - [📍 Aula 47 - Manipulando strings, caractere a caractere](modulo_05/aula_46)
+- [✨ Aula 48 - Funcionalidades da `string.h`](modulo_05/aula_46)
 
 ## 📑 Listas de exercícios
 
