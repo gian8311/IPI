@@ -56,6 +56,7 @@
 - [📑 Aula 39 - Exercícios de Vetores unidimensionais 1](modulo_05/aula_39)
 - [📑 Aula 41 - Exercícios de Vetores unidimensionais 2](modulo_05/aula_41)
 - [📑 Aula 42 - Exercícios de Vetores unidimensionais 3](modulo_05/aula_42)
+- [📝 Aula 43 - Strings](modulo_05/aula_43)
 
 ## 📑 Listas de exercícios
 
