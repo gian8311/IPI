@@ -54,5 +54,5 @@
 - [Exercício 9](vetores_unidimensionais/ex09.c)
 - [Exercício 10](vetores_unidimensionais/ex10.c)
 - [Exercício 11](vetores_unidimensionais/ex11.c)
-- Exercício 12
+- [Exercício 12](vetores_unidimensionais/ex12.c)
 - [Exercício 13](vetores_unidimensionais/ex13.c)

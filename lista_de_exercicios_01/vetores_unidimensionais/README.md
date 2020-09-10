@@ -54,7 +54,7 @@
 
 ### 12 - Leia um vetor com 10 números reais, ordene os elementos deste vetor de forma crescente (menor para o maior), e no final imprima os elementos do vetor ordenado.
 
-#### Solução Indisponível
+#### [Solução](ex12.c)
 
 ### 13 - Um sistema de controle de estoque armazena o código (inteiro), a quantidade em estoque (inteiro) e o preço unitário (float) das mercadorias. Fazer um programa que exiba um menu com as seguintes opções:
 
