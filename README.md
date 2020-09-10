@@ -62,6 +62,7 @@
 - [🖍 Aula 46 - Imprimindo e lendo strings com puts e gets](modulo_05/aula_46)
 - [📍 Aula 47 - Manipulando strings, caractere a caractere](modulo_05/aula_47)
 - [✨ Aula 48 - Funcionalidades da `string.h`](modulo_05/aula_48)
+- [⚡ Aula 48.1 - Desafio de Strings (Jogo da forca)](modulo_05/aula_48.1_desafio)
 
 ## 📑 Listas de exercícios
 
