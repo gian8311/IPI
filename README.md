@@ -59,6 +59,7 @@
 - [📝 Aula 43 - Strings](modulo_05/aula_43)
 - [🖋 Aula 44 - Inicializando o valor de uma string](modulo_05/aula_44)
 - [✏ Aula 45 - Imprimindo e lendo strings com printf e scanf](modulo_05/aula_45)
+- [🖍 Aula 46 - Imprimindo e lendo strings com puts e gets](modulo_05/aula_46)
 
 ## 📑 Listas de exercícios
 
