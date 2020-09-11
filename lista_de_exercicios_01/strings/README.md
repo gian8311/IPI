@@ -40,9 +40,12 @@
 
 ### 10 - Fazer um programa que:
 
-**a)** leia uma frase de 80 caracteres, incluindo brancos,
-**b)** conte e imprima quantos brancos existem na frase,
-**c)** conte e imprima quantas vezes a letra ‘a’ aparece,
+**a)** leia uma frase de 80 caracteres, incluindo brancos.
+
+**b)** conte e imprima quantos brancos existem na frase.
+
+**c)** conte e imprima quantas vezes a letra ‘a’ aparece.
+
 **d)** substitua as vogais pelo caractere ‘X’.
 
 #### [Solução](ex10.c)
@@ -61,7 +64,7 @@
 
 ### 14 - O código de César é uma das mais simples e conhecidas técnicas de criptografia. É um tipo de substituição na qual cada letra do texto é substituída por outra, que se apresenta no alfabeto abaixo dela um número fixo de vezes. Por exemplo, com uma troca de três posições, ‘A’ seria substituído por ‘D’, ‘B’ se tornaria ‘E’, e assim por diante. Implemente um programa que faça uso desse Código de César (3 posições), entre com uma string e retorne a string codificada. Exemplo: String: a ligeira raposa marrom saltou sobre o cachorro cansado, Nova string: D OLJHLUD UDSRVD PDUURP VDOWRX VREUH R FDFKRUUR FDQVDGR (com caracteres maiúsculos)
 
-**OBS**: Os caracteres 'x', 'y' e 'z', que são os três últimos devem ser substituídos por 'A', 'B' e 'C' respectivamente.
+**OBS**: Os caracteres 'x', 'y' e 'z', que são os três últimos devem ser substituídos por 'A', 'B' e 'C' respectivamente.<br/>
 **OBS**: O caractere ' ' (espaço deve ser mantido)
 
 #### [Solução](ex14.c)
