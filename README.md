@@ -64,6 +64,7 @@
 - [✨ Aula 48 - Funcionalidades da `string.h`](modulo_05/aula_48)
 - [⚡ Aula 48.1 - Desafio de Strings (Jogo da forca)](modulo_05/aula_48.1_desafio)
 - [#️⃣ Aula 49 - Vetores multidimensionais](modulo_05/aula_49)
+- [🔢 Aula 50 - Atribuição de valores a vetores multidimensionais](modulo_05/aula_50)
 
 ## 📑 Listas de exercícios
 
