@@ -68,6 +68,7 @@
 - [💻 Aula 51 - Acesso a valores de vetores multidimensionais](modulo_05/aula_51)
 - [🔍 Aula 52 - Atribuindo valores usando funções de leitura](modulo_05/aula_52)
 - [🔁 Aula 53 - Manipulando um vetor multidimensional com laços](modulo_05/aula_53)
+- [📑 Aula 54 - Exercícios de Vetores multidimensionais 1](modulo_05/aula_54)
 
 ## 📑 Listas de exercícios
 
