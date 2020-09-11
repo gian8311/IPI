@@ -65,6 +65,7 @@
 - [⚡ Aula 48.1 - Desafio de Strings (Jogo da forca)](modulo_05/aula_48.1_desafio)
 - [#️⃣ Aula 49 - Vetores multidimensionais](modulo_05/aula_49)
 - [🔢 Aula 50 - Atribuição de valores a vetores multidimensionais](modulo_05/aula_50)
+- [💻 Aula 51 - Acesso a valores de vetores multidimensionais](modulo_05/aula_51)
 
 ## 📑 Listas de exercícios
 
