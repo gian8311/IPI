@@ -70,6 +70,7 @@
 - [🔁 Aula 53 - Manipulando um vetor multidimensional com laços](modulo_05/aula_53)
 - [📑 Aula 54 - Exercícios de Vetores multidimensionais 1](modulo_05/aula_54)
 - [📑 Aula 55 - Exercícios de Vetores multidimensionais 2](modulo_05/aula_55)
+- [📑 Aula 57 - Exercícios de Vetores multidimensionais 3](modulo_05/aula_57)
 
 ## 📑 Listas de exercícios
 
