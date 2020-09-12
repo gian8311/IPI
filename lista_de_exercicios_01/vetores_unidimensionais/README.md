@@ -2,6 +2,8 @@
 
 ## A lista de exercícios completa pode ser encontrada [aqui](https://docs.google.com/document/d/1s3Dfu_cX1HYqZEL8H-lu3WdOVe5-O7oIKFsH-ny2Pjs)
 
+## ↗ Vetores unidimensionais
+
 ### 1 - Faça um programa que preencha um vetor com 10 números reais, calcule e mostre a quantidade de números negativos e a soma dos números positivos desse vetor.
 
 #### [Solução](ex01.c)

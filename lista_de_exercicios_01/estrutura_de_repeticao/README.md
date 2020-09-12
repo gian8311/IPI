@@ -2,6 +2,8 @@
 
 ## A lista de exercícios completa pode ser encontrada [aqui](https://docs.google.com/document/d/1s3Dfu_cX1HYqZEL8H-lu3WdOVe5-O7oIKFsH-ny2Pjs)
 
+## 🔁 Estrutura de repetição
+
 ### 1 - Faça um programa que leia 10 números inteiros (positivos ou negativos). Imprima a média dos valores, ignorando os não positivos.
 
 #### [Solução](ex01.c)

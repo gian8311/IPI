@@ -2,6 +2,8 @@
 
 ## A lista de exercícios completa pode ser encontrada [aqui](https://docs.google.com/document/d/1s3Dfu_cX1HYqZEL8H-lu3WdOVe5-O7oIKFsH-ny2Pjs)
 
+## 📝 Strings
+
 ### 1 - Receber um nome e imprimir as 4 primeiras letras do nome.
 
 #### [Solução](ex01.c)
