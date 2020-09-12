@@ -75,3 +75,15 @@
 - [Exercício 14](strings/ex14.c)
 - [Exercício 15](strings/ex15.c)
 - [Exercício 16](strings/ex16.c)
+
+### [🔢 Matrizes](matrizes)
+
+- [Exercício 1](strings/ex01.c)
+- [Exercício 2](strings/ex02.c)
+- [Exercício 3](strings/ex03.c)
+- [Exercício 4](strings/ex04.c)
+- [Exercício 5](strings/ex05.c)
+- [Exercício 6](strings/ex06.c)
+- [Exercício 7](strings/ex07.c)
+- [Exercício 8](strings/ex08.c)
+- [Exercício 9](strings/ex09.c)

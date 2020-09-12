@@ -80,3 +80,4 @@
 - [🔁 Estrutura de repetição](lista_de_exercicios_01/estrutura_de_repeticao)
 - [↗ Vetores unidimensionais](lista_de_exercicios_01/vetores_unidimensionais)
 - [📝 Strings](lista_de_exercicios_01/strings)
+- [🔢 Matrizes](lista_de_exercicios_01/matrizes)
