@@ -9,7 +9,7 @@
 
 ---
 
-### DESAFIO 2
+### [DESAFIO 2](Batalha_Naval.c)
 
 ​O jogo batalha naval é extremamente conhecido e viciante. Trata-se da disputa entre dois jogadores, onde o objetivo de cada jogador é destruir as navegações inimigas. Cada jogador tem a informação das suas embarcações, desconhecendo a posição das navegações inimigas.​ Cada jogador visualiza a posição de suas embarcações através de uma grade.
 
